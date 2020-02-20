@@ -1,0 +1,208 @@
+{
+	"meta": {
+		"theme": "spartan"
+	},
+	"basics": {
+		"name": "Ioannis Charamis",
+		"label": "Software Engineer",
+		"picture": "https://drive.google.com/uc?id=1DAB1_QAvklonn9LHGWj0SVl7txk5XCP-",
+		"email": "ioannis.charamis@outlook.com",
+		"phone": "(+30) 698-4075038",
+		"location": {
+			"address": "Athens (GR)"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "Ioannis Charamis",
+				"url": "https://www.linkedin.com/in/ioannis-charamis/"
+			},
+			{
+				"network": "GitHub",
+				"username": "charamis",
+				"url": "https://github.com/charamis"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Purebills",
+			"website": "https://purebills.com/",
+			"position": "Backend Developer and DevOps Engineer",
+			"startDate": "2019-09-01",
+			"summary": "Purebills is an Australian-based accounting and eInvoicing app.",
+			"highlights": [
+				"Working using Ruby on Rails and NodeJS with Webpack.",
+				"Performing development operations on AWS ElasticBeanstalk.",
+				"Currently occupying myself on integrating our product with XERO accounting software."
+			]
+		},
+		{
+			"company": "Bitloops",
+			"position": "Backend Developer",
+			"website": "https://www.linkedin.com/company/bitloops/about/",
+			"startDate": "2018-04-01",
+			"endDate": "2018-11-30",
+			"summary": "Three-month internship and then full-time employment.",
+			"highlights": [
+				"Part of a team that built Beat Hotels app, including a serverless cloud-based backend from scratch.",
+				"Developed backend API interface using NodeJS and Google Cloud Functions.",
+				"Developed communication with NoSQL and RDBMS databases, like Google Firebase & Redis."
+			]
+		},
+		{
+			"company": "Thesis Project",
+			"position": "University of Athens",
+			"website": "",
+			"startDate": "2020-01-01",
+			"summary": "Currently, on my thesis project, I am incorporating my Software Development skills with my desire to improve Urban Planning and Transport.",
+			"highlights": [
+				"Developing a mobile application which informs users of public transport the fastest and most comfortable way to arrive to their destination.",
+				"Both factors, quickness and comfortability, depend on route's traffic and vehicle's seat availability.",
+				"Implemented using Android API and Aimsun Next Transportation Modeling software."
+			]
+		},
+		{
+			"company": "Data Mining Project",
+			"position": "University of Athens",
+			"website": "https://github.com/dimitramav/tweets-sentiment-analysis",
+			"startDate": "2018-04-01",
+			"highlights": [
+				"Worked in a team in order to perform sentiment analysis to large number of tweets.",
+				"Implemented classification algorithms using Python and SciKit library.",
+				"Compared results of classification process to estimate which classifiers offer the highest accuracy for each use."
+			]
+		},
+		{
+			"company": "Human-Computer Interaction Project",
+			"position": "University of Athens",
+			"website": "https://github.com/jimjasson/IKA",
+			"startDate": "2018-04-01",
+			"highlights": [
+				"Participated in group project to re-design IKA’s (Greek Social Security Agency) website.",
+				"Developed web application and database using HTML, CSS, PHP and mySQL.",
+				"Performed UX/UI analysis and designed interface."
+			]
+		},
+		{
+			"company": "Network and Telecommunications Systems Project",
+			"position": "University of Athens",
+			"website": "https://github.com/charamis/CommunicationSystem",
+			"startDate": "2018-04-01",
+			"highlights": [
+				"Developed Android application and designed UX/UI.",
+				"Set up communication between clients and server using MQTT protocol and Java."
+			]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "ActionAid Hellas",
+			"position": "IT Support",
+			"website": "http://www.actionaid.gr/",
+			"startDate": "2017-02-01",
+			"endDate": "2017-06-30",
+			"summary": "Provided volunteering IT services.",
+			"highlights": [
+				"Supported employees facing IT-related issues.",
+				"Installed software and fixed hardware equipment."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University of Athens",
+			"area": "Computer Science, Department of Informatics & Telecommunications",
+			"studyType": "Bachelor of Science",
+			"startDate": "2014-09-01",
+			"gpa": "7.7/10.0"
+		},
+		{
+			"institution": "Lyceum of Monemvasia",
+			"startDate": "2011-09-01",
+			"endDate": "2014-06-01",
+			"gpa": "19/20"
+		}
+	],
+	"projects": [
+		{
+			"company": "Bitloops",
+			"position": "Backend Developer",
+			"website": "https://www.linkedin.com/company/bitloops/about/",
+			"startDate": "2018-04-01",
+			"endDate": "2018-11-30",
+			"summary": "Three-month internship and then full-time employment.",
+			"highlights": [
+				"Part of a team that built Beat Hotels app, including a serverless cloud-based backend from scratch.",
+				"Developed backend API interface using NodeJS and Google's Cloud Functions.",
+				"Developed communication with NoSQL and RDBMS databases, like Google’s Firebase & Redis."
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Grant from Eurobank EFG Banking Company",
+			"date": "2014-11-15",
+			"summary": "Ranked 1st in National Examinations among Monemvasia Lyceum graduates."
+		},
+		{
+			"title": "Grant from local organisations of Monemvasia",
+			"date": "2014-09-11",
+			"summary": "Graduated with GPA 19/20 and ranked 1st in National Examinations among Monemvasia Lyceum graduates."
+		}
+	],
+	"skills": [
+		{
+			"name": "Backend",
+			"keywords": [
+				"NodeJS",
+				"Javascript",
+				"Ruby",
+				"Java",
+				"Python",
+				"C",
+				"mySQL",
+				"Postgres",
+				"NoSQL"
+			]
+		},
+		{
+			"name": "Devops",
+			"keywords": [
+				"AWS",
+				"Google Cloud"
+			]
+		},
+		{
+			"name": "Frontend",
+			"keywords": [
+				"HTML",
+				"Javascript",
+				"CSS"
+			]
+		},
+		{
+			"name": "Other",
+			"keywords": [
+				"Git",
+				"Android API",
+				"Unix",
+				"Windows"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "Greek",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "ECCE B2"
+		},
+		{
+			"language": "Swedish",
+			"fluency": "Currently learning"
+		}
+	]
+}
